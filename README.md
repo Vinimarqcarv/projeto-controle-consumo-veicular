@@ -99,7 +99,7 @@ projeto-controle-consumo-veicular/
 - [Documentação completa](03_Documentacao/Documentacao_Projeto.pdf)
 
 
-- ## 🧠 Regra de negócio — combustível cruzado
+## 🧠 Regra de negócio — combustível cruzado
 
 Durante o desenvolvimento foi identificada uma situação que poderia comprometer a interpretação do indicador de Km/L: a ocorrência de combustíveis diferentes dentro de um mesmo ciclo de consumo.
 
