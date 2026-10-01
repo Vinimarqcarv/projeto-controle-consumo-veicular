@@ -70,6 +70,35 @@ O dashboard apresenta indicadores relacionados a:
 - 🛢️ Preço médio por litro
 - 📅 Gasto acumulado no ano
 
+## 📁 Estrutura do projeto
+
+```text
+projeto-controle-consumo-veicular/
+│
+├── 01_Excel/
+│   └── Controle_Consumo_Veicular.xlsx
+│
+├── 02_PowerBI/
+│   └── Controle_Consumo_Veicular.pbix
+│
+├── 03_Documentacao/
+│   └── Documentacao_Projeto.pdf
+│
+├── 04_Imagens/
+│   ├── base-excel.png
+│   ├── dashboard-completo.png
+│   └── dashboard-filtro-mes.png
+│
+└── README.md
+```
+
+### 📂 Arquivos
+
+- [Planilha Excel](01_Excel/Controle_Consumo_Veicular.xlsx)
+- [Arquivo Power BI](02_PowerBI/Controle_Consumo_Veicular.pbix)
+- [Documentação completa](03_Documentacao/Documentacao_Projeto.pdf)
+
+
 - ## 🧠 Regra de negócio — combustível cruzado
 
 Durante o desenvolvimento foi identificada uma situação que poderia comprometer a interpretação do indicador de Km/L: a ocorrência de combustíveis diferentes dentro de um mesmo ciclo de consumo.
